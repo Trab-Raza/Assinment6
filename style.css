@@ -1,0 +1,314 @@
+.body {}
+
+.areyoustarvingcontainer {}
+
+.areyou {
+    background-color: #FAAA01;
+    width: 100%;
+    height: 450px;
+    padding-top: 90px;
+    padding-left: none;
+
+
+}
+
+.textareyou {
+    color: white;
+}
+
+.box {
+    height: auto;
+    width: 100%;
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+
+}
+
+.diliverypicupbutton {
+    display: flex;
+
+
+}
+
+.delivery {
+    background: #d3ced1;
+    width: 130px;
+    height: 35px;
+    display: flex;
+    border-radius: 3px;
+    border: none;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#textdelivery {
+    color: #F17228;
+    margin-left: 10px;
+    font-size: 11px;
+    font-weight: bold;
+}
+
+.picup {
+    background: white;
+    width: 150px;
+    height: 30px;
+    display: flex;
+    border: none;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    align-items: flex-start;
+}
+
+#textpicup {
+    margin-left: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #757575;
+}
+
+.enteryouraddress {
+    margin-top: 20px;
+    border-top: solid #757575;
+    display: flex;
+
+}
+
+.buttonenteryouraddress {
+    margin-top: 15px;
+    display: flex;
+    width: 650px;
+    height: 45px;
+    border-radius: 3px;
+    border: none;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#textenteryouraddress {
+    color: #9E9E9E;
+    margin-left: 8px;
+}
+
+#locationpic {
+    width: 20px;
+    height: 20px;
+    padding-top: 5px;
+}
+
+.findfoodbutton {
+    display: flex;
+    background: #F65900;
+    width: 170px;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    align-items: flex-start;
+
+}
+
+#findfood {
+    color: white;
+    margin-left: 5px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.imagebase {
+    width: 400px;
+    height: 360px;
+    margin-left: 25px;
+}
+
+.images {
+    display: flex;
+
+}
+
+.fourpicscontainer {
+    margin-top: 35px;
+}
+
+.fourpicscol {}
+
+.fourpics {
+    border-radius: 15px;
+    height: 250px;
+    width: 315px;
+}
+
+.greysvage {
+    font-weight: bold;
+    margin-top: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.sixdays {
+    background: #F1722833;
+    color: #F17228;
+    width: 150px;
+    border-radius: 3px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.howdoesitworkcontainer {
+    background: #FFCE6738;
+    text-align: center;
+    margin-top: 50px;
+    width: 100%;
+    height: 350px;
+
+}
+
+.howdoesitworktext {
+    color: #F17228;
+
+
+}
+
+.selectlocatindiv {
+    background-image: url(./image/Vector\ \(1\).png);
+    height: 200px;
+    background-repeat: no-repeat;
+
+}
+
+.inerpic {}
+
+.popularitem {
+    margin-top: 50px;
+    font-weight: bold;
+    font-size: 48px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+
+}
+
+.secondrowpiccontainer {
+    display: flex;
+
+}
+
+.secondrow {
+    margin-top: 60px;
+    display: flex;
+    
+    }
+
+.secondrowpics {
+    height: 210px;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.burgerarenabutton {
+    display: flex;
+    border: none;
+}
+
+.burgerarenatext {
+    margin-left: 5px;
+    color: #FFB30E;
+
+
+}
+
+.ordernowbutton {
+    border: none;
+    border-radius: 5px;
+    background: #F17228;
+    width: 100%;
+    height: 50px;
+    color: white
+}
+
+
+.burgerarenaprice {
+    font-weight: bold;
+}
+
+.rightleft {
+    border-radius: 50%;
+    color: white;
+    background: #FAAA01;
+    border: none;
+    height: 50px;
+    width: 50px;
+    font-size: 25px;
+   margin-top: 80px;
+   text-align: center;
+
+}
+.card3_1{
+    background-image: url(./image/a\ \(1\).png);
+    width: 100%;
+    height: 300px;
+    border-radius: 10px;
+    display: flex;
+    padding-top: 15px;
+    padding-left: 15px;
+
+}
+.card3button1{
+    color: white;
+    background-color: #F17228;
+    border-radius: 3px;
+    border: none;
+    height: 30px;
+    width: 100px;
+  
+}
+.card3button2{
+    color: white;
+    background-color: #FFB30E;
+    border-radius: 3px;
+    border: none;
+    height: 30px;
+    width: 60px;
+    margin-left: 10px;
+  
+}
+.smimg{
+    height: 50px;
+    width: 50px;
+    border-radius: 5px;
+    border: none;
+}
+.foodworld{
+    padding: 0px;
+    margin: 0px;
+}
+.icontext{
+   margin-left: 10px;
+}
+.smimgdiv{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+
+}
+.starimgdiv{
+    display: flex;
+   align-items: center;
+   margin: 0px;
+   padding: 0px;
+   
+}
+.startext{
+    
+
+}
+.staricon{
+    height: 26px;
+    width: 26px;
+
+}
